@@ -1,0 +1,19 @@
+header {
+    padding-bottom:0;
+}
+
+.header__list {
+    display:flex;
+    list-style: none;
+    flex-wrap:wrap;
+    padding:0;
+}
+
+.header__list li {
+    margin-right:5px;
+}
+
+.success__wrapper {
+
+}
+
